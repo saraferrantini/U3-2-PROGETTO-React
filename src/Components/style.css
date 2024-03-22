@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(16, 14, 28);
+  color: white;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-body {
+  height: 200px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
